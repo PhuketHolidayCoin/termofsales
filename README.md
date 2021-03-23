@@ -1,1 +1,1 @@
-# termofsales
+# Term of Sales
